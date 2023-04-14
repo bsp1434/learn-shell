@@ -5,3 +5,5 @@
 
 1. How to write shell script
 2. print
+3. variables
+4. 
